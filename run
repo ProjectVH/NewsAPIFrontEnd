@@ -1,0 +1,3 @@
+vue create newsapi
+cd newsapi
+npm run serve
